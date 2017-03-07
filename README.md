@@ -1,7 +1,7 @@
 # Målerjakt ("moth hunt") app
 A citizen science initiative for mapping of an invasive species.
 
-<img align="left" src="http://www.designrad.no/malerjakt-app.png">
+<img align="left" src="http://www.designrad.no/malerjakt-app.png"  width="300">
 We present a new outreach activity based on citizen science. The goal of the project is to engage volunteer observers of all ages in a campaign to map the current distribution of scarce umber moth, a forest pest species that is currently spreading into northern Norway. The spread of the species as far as Tromsø has been documented by research, but its continued spread north and east of Tromsø is unknown. The scarce umber moth possesses a number of important qualities that make it a good target for citizen science. Through development of a targeted app for smart phones and tablets, and a dedicated campaign during the autumn of 2017, we hope to engage schoolchildren, as well as the public in Troms and Finnmark in recording the presence of the species in their neighborhood.
 
 ## Geographical localization of the fieldwork/work (in decimal degrees, max 5 per project)
