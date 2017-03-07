@@ -7,7 +7,6 @@ App should be in testing before summer, and released early summer. The app will 
 - Estimated amount of submissions: under 1000.
 - Estimated amount of participants: under 100.
 
-
 # THE APP:
 Architecture and development of a mobile app, with a few simple scenarios:
 
@@ -39,9 +38,7 @@ Database Admin UI (this is very simple, we can use default db admin interface, t
 - view images and sender info
 - browse and view images in large size
 - mark image as reject/approved (or, just delete Incorrect images and keep Correct ones)
-- default mark: unchecked
 - delete message
-- create export file:
-- image geolocation as .geojson file
-- image link to file in img/
+- create export file: image geolocations as one .geojson file
+- URL to submitted image
 - login/logout/forgot password
